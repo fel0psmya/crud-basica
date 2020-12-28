@@ -1,2 +1,2 @@
 # Crud Básica
- Uma CRUD básica criada durante as aulas da disciplina Programação Web II (Segundo semestre de 2019).
+ Uma CRUD básica criada durante as aulas da disciplina Programação Web II (Segundo semestre de 2019). Como estou aprendendo a usar o Git e o GitHub apenas agora em dezembro de 2020, decidi criar um repositório para mostrar o que foi feito ainda no período do curso e realizar algumas alterações.
