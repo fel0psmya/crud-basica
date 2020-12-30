@@ -23,7 +23,7 @@
 		echo "<b>Nome do funcionário:</b> <input type='text' name='nome' value='".$atr['nome']."'"."<p></p>";
 
 		echo "<b>RG:</b> <input type='text' name='rg' value='".$atr['rg']."'"."<p></p>";
-		echo "<b>Data de nascimento:</b> <input type='text' name='data_de_nascimento' value='".$atr['data_de_nascimento']."'"."<p></p>";
+		echo "<b>Data de nascimento:</b> <input type='date' name='data_de_nascimento' value='".$atr['data_de_nascimento']."'"."<p></p>";
 		echo "<b>Contato:</b> <input type='text' name='contato' value='".$atr['contato']."'"."<p></p>";
 		echo "<b>Id do funcionário supervisor:</b> <input type='text' name='id_func_sup' value='".$atr['id_func_supervisor']."'"."<p></p>";
 		echo "<b>Id do cargo: </b>";

@@ -22,7 +22,7 @@
 		echo "<input type='hidden' name='id' value='".$atr['id']."'> <p></p>";
 
 		echo "<b>Nome do dependente:</b> <input type='text' name='d_nome' value='".$atr['d_nome']."'"."<p></p>";
-		echo "<b>Data de nascimento:</b> <input type='text' name='data_de_nascimento' value='".$atr['data_de_nascimento']."'"."<p></p>";
+		echo "<b>Data de nascimento:</b> <input type='date' name='data_de_nascimento' value='".$atr['data_de_nascimento']."'"."<p></p>";
 		echo "<b>Id do funcionário: </b>";
 		echo "<select name='id_func'>";
 		$func = $pdo->query("SELECT * FROM funcionario");

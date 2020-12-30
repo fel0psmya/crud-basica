@@ -31,7 +31,7 @@
 	}
 	?> <p> </p>
 	<b>Nome do dependente:</b> <input type="text" name="ndep"> <p></p>
-	<b>Data de nascimento:</b> <input type="text" name="data"> <p></p>
+	<b>Data de nascimento:</b> <input type="date" name="data"> <p></p>
 	<b>Id funcionário:</b> 
 	<select name="idf">
 		<?php

@@ -32,7 +32,7 @@
 	?> <p> </p>
 	<b>Nome do funcionário:</b> <input type="text" name="nf"> <p></p>
 	<b>RG:</b> <input type="text" name="rg"> <p></p>
-	<b>Data de nascimento:</b> <input type="text" name="data"> <p></p>
+	<b>Data de nascimento:</b> <input type="date" name="data"> <p></p>
 	<b>Contato:</b> <input type="text" name="ct"> <p></p>
 	<b>Id funcionário supervisor:</b>
 	<select name="idfs">
